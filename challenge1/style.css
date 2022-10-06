@@ -1,0 +1,23 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+  }
+
+body {
+    background-color: rgb(32, 1, 56);
+}
+
+h1 {
+    color: aliceblue;
+    font-family: 'Euphoria Script', cursive;
+    text-align: center;
+}
+
+p {
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    text-align: center;
+}
